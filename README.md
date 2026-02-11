@@ -1,10 +1,10 @@
-# 🧠 PyLeitner CLI
+# 🧠 Leitner Box Project
 
 ### High-Performance Spaced Repetition System
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791?style=for-the-badge&logo=postgresql) ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-336791?style=for-the-badge&logo=postgresql)
 
-**PyLeitner CLI** is a robust, terminal-based implementation of the Leitner System, designed for efficient memory retention through algorithmic spaced repetition. Built with Python and PostgreSQL, it features persistent storage, user authentication, and an automated penalty system for overdue cards.
+**Leitner Box Project** is a robust, terminal-based implementation of the Leitner System, designed for efficient memory retention through algorithmic spaced repetition. Built with Python and PostgreSQL, it features persistent storage, user authentication, and an automated penalty system for overdue cards.
 
 ---
 
@@ -57,8 +57,8 @@ To ensure consistency, the system runs a background check (`apply_penalty_policy
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/pyleitner-cli.git](https://github.com/yourusername/pyleitner-cli.git)
-    cd pyleitner-cli
+    git clone https://github.com/miladbasery/Leitner-Box-Project.git
+    cd Leitner-Box-Project
     ```
 
 2.  **Set up Virtual Environment (Recommended)**
@@ -104,3 +104,7 @@ BOX_INTERVALS = {
     5: 16,  # Review every 16 days
     6: 30   # Review every month
 }
+```
+### Member pf team
+**Mr . Milad basery**
+
