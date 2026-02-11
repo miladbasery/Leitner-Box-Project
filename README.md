@@ -17,6 +17,7 @@
 - [Usage](#-usage)
 - [Project Structure](#-project-structure)
 - [Contributing](#-contributing)
+- [Member of team](#member-pf-team)
 
 ---
 
@@ -106,5 +107,7 @@ BOX_INTERVALS = {
 }
 ```
 ### Member pf team
-**Mr . Milad basery**
-
+**Mr . Milad Basery**
+**Saro Hosseini**
+**Zahra Dehghan**
+**Alireza Abolghasemi**
