@@ -107,7 +107,7 @@ BOX_INTERVALS = {
 }
 ```
 ### Member pf team
-**Mr . Milad Basery**
-**Saro Hosseini**
-**Zahra Dehghan**
-**Alireza Abolghasemi**
+* **Mr . Milad Basery**
+* **Saro Hosseini**
+* **Zahra Dehghan**
+* **Alireza Abolghasemi**
